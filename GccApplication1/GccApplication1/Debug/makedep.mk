@@ -16,3 +16,5 @@ MCAL\PWM\pwm.c
 
 MCAL\TIMER\timer.c
 
+Testing\test.c
+

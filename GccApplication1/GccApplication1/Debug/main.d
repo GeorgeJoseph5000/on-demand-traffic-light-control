@@ -22,7 +22,12 @@ main.d main.o: .././main.c .././Application/application.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\common.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\version.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\fuse.h \
- c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\lock.h
+ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\lock.h \
+ .././Testing/test.h .././Testing/../MCAL/TIMER/timer.h \
+ .././Testing/../MCAL/PWM/pwm.h \
+ .././Testing/../MCAL/PWM/../../MCAL/DIO_DRIVER/dio.h \
+ .././Testing/../ECUAL/LED_DRIVER/led.h \
+ .././Testing/../ECUAL/BUTTON_DRIVER/button.h
 
 .././Application/application.h:
 
@@ -73,3 +78,15 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\fuse.h:
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\lock.h:
+
+.././Testing/test.h:
+
+.././Testing/../MCAL/TIMER/timer.h:
+
+.././Testing/../MCAL/PWM/pwm.h:
+
+.././Testing/../MCAL/PWM/../../MCAL/DIO_DRIVER/dio.h:
+
+.././Testing/../ECUAL/LED_DRIVER/led.h:
+
+.././Testing/../ECUAL/BUTTON_DRIVER/button.h:

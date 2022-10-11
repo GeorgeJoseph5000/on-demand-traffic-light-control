@@ -3,10 +3,10 @@
 
 #include "../../MCAL/DIO_DRIVER/dio.h"
 
-void LED_init(uint8_t pinNumber, uint8_t portNumber);
-void LED_on(uint8_t pinNumber, uint8_t portNumber);
-void LED_off(uint8_t pinNumber, uint8_t portNumber);
-void LED_toggle(uint8_t pinNumber, uint8_t portNumber);
+EN_DIO_Error_t LED_init(uint8_t pinNumber, uint8_t portNumber);
+EN_DIO_Error_t LED_on(uint8_t pinNumber, uint8_t portNumber);
+EN_DIO_Error_t LED_off(uint8_t pinNumber, uint8_t portNumber);
+EN_DIO_Error_t LED_toggle(uint8_t pinNumber, uint8_t portNumber);
 
 
 #endif
