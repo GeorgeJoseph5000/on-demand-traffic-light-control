@@ -16,4 +16,4 @@ https://drive.google.com/drive/u/0/folders/1Cr3dE_jB5tNeMIHdMWRcOHkUlWYYpJO5
   * The system will stop cars if not already on red light as per request
 
 ## Details & Program Flow Chart
-You can find system details and program flow chart in project documentation [here](https://drive.google.com/file/d/1xnArD0pQqNs-eGUwdwdOcArQW-ZRXa4F/view?usp=sharing).
+You can find system details and program flow chart in project documentation.
